@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        body{background-color:gold;}
+            h1 {
+                
+                color:grey;
+                font-size:20px;
+                
+            }
+            h2{color:Maroon;
+                font-family: serif;}
+            }
+            h3{
+                color:blue; font-family: sans-serif;
+                font-size:14px;}
+            }
+           .rapper { background-color:gray;
+               
+           }
+            
+             
+                 
+             
+             
+                
+                 
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1><em>Mirella's Thoughts</em></h1>
+
+        <h3>Rappers </h3>
+        <ul>
+            <a href="https://en.wikipedia.org/wiki/Trippie_Redd"><li>Trippie Redd</li></a>
+            <a href="https://en.wikipedia.org/wiki/J._Cole"><li>J.Cole</li></a>
+            <a href="https://en.wikipedia.org/wiki/Drake_(musician)"><li>Drake</li></a>
+        </ul>
+        
+        <h2 class="rapper">Trippie</h2>
+        <h5>March 4th,2020</h5>
+        
+        <p>Trippie Redd is one of my top rappers of 2020.<br>Trippie has alot of music due to his past relationships.<br>The rapper's real name is Michael.<br>One of my favorite songs by him is called "Love Me More".<br>This song was on his most recent album named 'A love letter to you 4'.</p> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Trippie_Redd_Photo_by_Kris_Knesel.jpg" width ="500">
+        <h2 class="rapper">J.Cole</h2>
+        <p>Cole is also one of the best rappers in my opinion.<br>The first rapper to be signed to Jay-Z's record was Cole.<br>J.cole's real name is Jermaine Lamar.<br>He started too rap at the age of 12.<br>Made a banger album (well like all of them are bangers bruh).</p> <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3Mzg3MjY0ODg2OTA4NTk5/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg">
+        
+       
+       
+       
+       
+       
+        <h2 class="rapper">Drake</h2>
+        Drake is said to be worth around 100 million.<br>81 writers helped him work on one of the best albums 'Views'.<br>Drake just pretty dope.
+        
+        
+    </body>
+</html>
